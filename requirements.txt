@@ -1,3 +1,7 @@
 voila
 jupyterlab~=3.0
 urllib3<2
+numpy
+pandas
+seaborn
+matplotlib
